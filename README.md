@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi, I'm Abhay Kushwah 👋
 
-<!--
-**abhaykushwaha12/Abhaykushwaha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.E. Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I am passionate about programming, web development, and artificial intelligence. I enjoy building projects and learning new technologies with the help of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+
+- C
+- C++
+- Python
+- Web Development
+- AI-Assisted Development
+
+🌱 Currently Learning
+
+- Data Structures and Algorithms (DSA) using C and C++
+- Problem Solving
+- Programming Fundamentals
+
+🎯 My Goals
+
+- Improve my programming skills.
+- Master DSA.
+- Build real-world projects.
+- Explore Artificial Intelligence.
+
+⚡ Interests
+
+- Artificial Intelligence
+- Software Development
+- Web Development
+- Coding
+
+Thanks for visiting my profile! 🚀
